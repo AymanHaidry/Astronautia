@@ -24,12 +24,12 @@ const ibmPlexMono = IBM_Plex_Mono({
 const instrumentSerif = localFont({
   src: [
     {
-      path: "../public/fonts/InstrumentSerif-Regular.woff2",
+      path: "../public/fonts/InstrumentSerif-Regular.ttf",
       weight: "400",
       style: "normal",
     },
     {
-      path: "../public/fonts/InstrumentSerif-Italic.woff2",
+      path: "../public/fonts/InstrumentSerif-Italic.ttf",
       weight: "400",
       style: "italic",
     },
